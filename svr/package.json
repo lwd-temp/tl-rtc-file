@@ -35,7 +35,7 @@
 		"lru-cache": "^10.0.1",
 		"mocha": "^10.2.0",
 		"mysql2": "^2.1.0",
-		"openai": "^3.3.0",
+		"openai": "^4.43.0",
 		"request": "^2.88.2",
 		"rollup-plugin-copy": "^3.4.0",
 		"sequelize": "^6.1.0",
